@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cedarc/Learn%20-%20Workflow/_apis/build/status/cedarco.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/cedarc/Learn%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
